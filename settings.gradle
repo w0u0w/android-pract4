@@ -1,0 +1,3 @@
+include ':thread'
+include ':app'
+rootProject.name = "practice4"
